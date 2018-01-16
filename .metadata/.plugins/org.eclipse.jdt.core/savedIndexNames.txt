@@ -1,0 +1,10 @@
+INDEX VERSION 1.126+C:\Users\COCO\Desktop\GIT.test\.metadata\.plugins\org.eclipse.jdt.core
+4101908942.index
+204244680.index
+3335313154.index
+764573569.index
+1363298745.index
+2856757617.index
+486861968.index
+1657330681.index
+1233135381.index
